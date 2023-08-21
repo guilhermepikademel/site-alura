@@ -1,11 +1,3 @@
-/*Reset de estilos basicos */
-*{
-    margin: 0;
-    padding: 0;
-}
-/*estilos para p cabeçalho */
-header{
-    background-color: #333;
-    color:#fff;
-    padding: 20px;
+body {
+    background-color: red;
 }
